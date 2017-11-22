@@ -10,6 +10,15 @@ namespace Interface
     {
         static void Main(string[] args)
         {
+            Person nati = new Nati("Nati", "Nissim");
+            Console.WriteLine(nati.GetFullName());
+            nati.Greet();
+            nati.VirtualMethd();
+
+            Person bill = new Bill("Bill", "Nissim");
+            Console.WriteLine(bill.GetFullName());
+            bill.Greet();
+
         }
     }
 }

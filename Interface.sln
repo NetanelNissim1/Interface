@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface", "Interface\Interface.csproj", "{95A1C190-2DF1-4753-AC74-263753958381}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceAndAbstruct", "Interface\InterfaceAndAbstruct.csproj", "{95A1C190-2DF1-4753-AC74-263753958381}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
